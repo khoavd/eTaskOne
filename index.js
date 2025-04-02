@@ -10,5 +10,6 @@ import {ThreeBoxes} from './src/ThreeBoxes';
 import {ThreeBoxesRow} from './src/ThreeBoxesRow';
 import {FlexGrid} from './src/FlexGrid';
 import NavApp from './src/NavApp';
+import TabNavApp from './src/TabNavApp';
 
-AppRegistry.registerComponent(appName, () => NavApp);
+AppRegistry.registerComponent(appName, () => TabNavApp);
